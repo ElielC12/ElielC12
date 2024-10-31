@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ElielC12
+- 👋 Hi, I’m Eliel Cortes
 - 🍀 I’m interested in ... Coding, cooking, skateboarding, tennis, content creation, journaling, theories, horror stories, strenght training, and arts. 
-- 🍀 I’m currently learning ... HTML, CSS, JS.
+- 🍀 I’m currently learning ... Software Dev with python.
 - 🍀 I’m looking to collaborate on ... Python Projects and Web Design projects. 
 - 🍀 How to reach me ... Email
 - 🍀 Fun fact: ... I've moved 15 different states in my life. Adaptability is in my blood.
