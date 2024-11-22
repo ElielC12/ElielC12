@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Eliel Cortes
-- 🍀 I’m interested in coding, cooking, skateboarding, tennis, content creation, journaling, theories, horror stories, strenght training, and arts. 
-- 🍀 I’m currently learning software development with python.
-- 🍀 I’m looking to collaborate on python projects and web design projects. 
-- 🍀 You can reach me trough email.
+👋 Hi, I’m Eliel Cortes, a passionate learner and creator.
+🌱 Interests: Coding, cooking, skateboarding, soccer, content creation, journaling, theories, horror stories, strength training, and arts.
+💻 Currently exploring software development with Python and building projects to refine my skills.
+🤝 Open to collaborations on Python-based projects and web design.
+📬 Reach out to me via email for any collaboration or just to connect!
